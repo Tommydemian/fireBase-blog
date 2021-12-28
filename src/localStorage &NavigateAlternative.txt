@@ -1,0 +1,3 @@
+localStorage => Entender el f(x)
+
+useNavigate => al usarlo fuera de un componente no tiene aplicacion legitima, pero uno puede hacer lo siguiente => window.location
